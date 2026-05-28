@@ -136,9 +136,9 @@ documind-ai/
 ## Clone Repository
 
 ```bash
-git clone https://github.com/mukund7296/documind-ai-rag.git
+git clone https://github.com/mukund7296/DocuMind-AI-RAG.git
 
-cd documind-ai
+cd DocuMind-AI-RAG
 ```
 
 ## Create Virtual Environment
