@@ -109,28 +109,6 @@ Generate AI Response
 
 ---
 
-# 📂 Project Structure
-
-```bash
-documind-ai/
-│
-├── app.py
-├── requirements.txt
-├── README.md
-│
-├── data/
-├── vectorstore/
-├── utils/
-│   ├── loader.py
-│   ├── embeddings.py
-│   ├── retriever.py
-│   └── llm.py
-│
-└── assets/
-```
-
----
-
 # ⚙️ Installation
 
 ## Clone Repository
